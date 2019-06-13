@@ -1,0 +1,5 @@
+../../resources/models/Cyborg/Cyborg.obj
+../../resources/models/CustomPlanet/Planet.obj
+../../resources/models/Moon/Moon.obj
+../../resources/models/Path/Path.obj
+../../resources/models/cube/cube.obj
